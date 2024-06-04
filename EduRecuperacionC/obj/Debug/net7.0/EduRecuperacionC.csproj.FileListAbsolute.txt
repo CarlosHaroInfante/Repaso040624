@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\EduRecuperacionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\EduRecuperacionC.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\EduRecuperacionC.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\EduRecuperacionC.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\bin\Debug\net7.0\EduRecuperacionC.exe
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\bin\Debug\net7.0\EduRecuperacionC.deps.json
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\bin\Debug\net7.0\EduRecuperacionC.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\bin\Debug\net7.0\EduRecuperacionC.dll
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\bin\Debug\net7.0\EduRecuperacionC.pdb
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\EduRecuperacionC.dll
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\refint\EduRecuperacionC.dll
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\EduRecuperacionC.pdb
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\EduRecuperacionC.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\EduRecuperacionC\obj\Debug\net7.0\ref\EduRecuperacionC.dll

@@ -1,0 +1,134 @@
+
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú

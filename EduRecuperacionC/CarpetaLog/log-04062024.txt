@@ -1,0 +1,446 @@
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+Error al elegir la opción en el menú principalCollection was modified; enumeration operation may not execute.
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+Error al elegir la opción en el menú principalCollection was modified; enumeration operation may not execute.
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+Error al elegir la opción en el menú principalCollection was modified; enumeration operation may not execute.
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+Error al elegir la opción en el menú principalCollection was modified; enumeration operation may not execute.
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Error al añadir el alumno a la lista
+Error al elegir la opción en el menú principalString '1982' was not recognized as a valid DateTime.
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Baja de alumno
+Alumno eliminado correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Alta de alumno
+Alumno añadido correctamente
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Modificar alumno
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+123456532;Davida;Melendez;Nuñez;C/Alcampo;1234324141;jhonnnnnnnnyyyy;25/8/2004
+12345654P;Pablo;Harito;Infantito;C/Autogiro 11;1234453314;pavlooo;3/11/2009
+30278334F;Carlos;Haro;Infante;C/Tenis 9;633536269;carlitooo;5/12/2003
+30278335B;Barbara;Rodriguez;Gonzalez;C/Baloncesto 37;655883666;barbaraaa;16/11/2001
+30278337M;Marcos;Haro;Infante;C/Huerta El Canario 11;1415162752;marcos12345;15/11/2006
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+Error al elegir la opción en el menú principalIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+Error al elegir la opción en el menú principalIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Escribir alumnos en fichero
+Error al elegir la opción en el menú principalIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Mostrar alumnos
+El usuario ha elegido una opción del menú
+Entra en el menú principal
+Se cierra el menú
